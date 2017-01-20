@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: https://github.com/envato/logstash-mixin-aws
-  revision: 1da78c64fbb9391cbd4b613c1830069006d6ef6d
+  revision: 5df40e44f5acaf393ce930ba3399dc7ada6cd747
   branch: assume-role
   specs:
     logstash-mixin-aws (4.2.0)
